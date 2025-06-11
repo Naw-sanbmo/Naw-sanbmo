@@ -3,11 +3,6 @@
 
  How to reach me **nawsanbmo@gmail.com**
 
-<h1 align="center">Hi 👋, I'm Naw San</h1>
-<h3 align="center">Full Stack web developer</h3>
-
-- 📫 How to reach me **nawsanbmo@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/naw-san-235a3b116" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naw-san-235a3b116" height="30" width="40" /></a>
