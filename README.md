@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Naw San</h1>
 <h3 align="center">Full Stack web developer</h3>
 
- How to reach me --<p>nawsanbmo@gmail.com</p>
+ How to reach me --nawsanbmo@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
